@@ -1,6 +1,6 @@
 # Privacy Policy for Philter
 
-_Last updated: October 9th 2025_
+_Last updated: October 14th 2025_
 
 At **Philter**, we believe in privacy. We don’t collect your data, and we don’t want it. Please don’t send it to us.
 
@@ -8,7 +8,7 @@ This privacy policy only exists because it’s a requirement for the Google Play
 
 ## What this means
 - Everything in runs directly on your device, including the AI.
-- We will **never** ask for your data, a login, or your photos.
+- We will **never** ask for your data, for you to create a login, or for access your photos.
 - Your photos never leave your phone.
 - No servers, no cloud, no hidden tracking.
 
